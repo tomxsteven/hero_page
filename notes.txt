@@ -1,0 +1,14 @@
+Color Palette
+    #fcfdfc
+    #9d9a96
+    #847e65
+    #2f271a
+    #569ac6
+    #7d4028
+
+Alt GIFs
+    https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXh0aWFwNTJmdTlpYWdvOGswd2VybHp2YzZ3NHdpMm42d21iYnV2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M0j7tf1ANjqcAwedMM/giphy.gif
+    https://giphy.com/gifs/jurassic-park-dinosaur-t-rex-3o85xCbzHvU144C5tm
+
+    https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJya2NoMmhvZTRvZmxwZzh0YXB2eDQwOXY3aW93YXhvZHk5cmx2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l57DoqMuZ46alaYaXJ/giphy.gif
+    https://giphy.com/gifs/tomwindeknecht-pink-doodle-animated-gif-l57DoqMuZ46alaYaXJ
