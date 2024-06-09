@@ -20,7 +20,6 @@ body {
 
 #bg-cont {
     height: 90vh;
-    max-height: 600px;
     aspect-ratio: 117/160;
     display: flex;
     justify-content: center;
