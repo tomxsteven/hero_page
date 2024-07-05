@@ -43,22 +43,33 @@ main#bg-img {
 
 section #txs {
     font-family: 'Creepster', sans-serif;
+    font-size: 13cqmin;
+    position: fixed;
+    top: 2.5%;
+    left: 5%;
+    transform: rotate(-4deg);
+}
+section #baby {
+    font-family: 'Creepster', sans-serif;
     font-size: 12cqmin;
     position: fixed;
-    top: 3%;
-    left: 5%;
-    transform: rotate(-6deg);
+    top: 12.75%;
+    left: 48%;
+    transform: rotate(-2deg);
 }
-
-
-
-
-
-/* aside {
-    color: #fcfdfc
-    #9d9a96
-    #847e65
-    #2f271a
-    #569ac6
-    #7d4028;
-} */
+section #web {
+    font-family: 'Creepster', sans-serif;
+    font-size: 12cqmin;
+    position: fixed;
+    top: 12.8%;
+    left: 73%;
+    transform: rotate(2deg);
+}
+section #dev {
+    font-family: 'Creepster', sans-serif;
+    font-size: 13cqmin;
+    position: fixed;
+    top: 23.3%;
+    left: 71%;
+    transform: rotate(5deg);
+}
