@@ -43,28 +43,13 @@ main#bg-img {
 
 section #txs {
     font-family: 'Creepster', sans-serif;
-    font-size: 10cqmin;
+    font-size: 12cqmin;
     position: fixed;
-    top: 8cqb;
-    left: 51cqi;
-    transform: rotate(15deg);
+    top: 3%;
+    left: 5%;
+    transform: rotate(-6deg);
 }
-section #baby {
-    font-family: 'Creepster', sans-serif;
-    font-size: 9cqmin;
-    position: fixed;
-    top: 14cqb;
-    left: 44cqi;
-    transform: rotate(-5deg);
-}
-section #webdev {
-    font-family: 'Creepster', sans-serif;
-    font-size: 10cqmin;
-    position: fixed;
-    top: 21cqb;
-    left: 55cqi;
-    transform: rotate(-2deg);
-}
+
 
 
 
