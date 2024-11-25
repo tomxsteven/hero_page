@@ -44,7 +44,7 @@ main#bg-img {
 section #txs {
     font-family: 'Creepster', sans-serif;
     font-size: 13cqmin;
-    position: fixed;
+    position: absolute;
     top: 2.5%;
     left: 5%;
     transform: rotate(-4deg);
@@ -52,7 +52,7 @@ section #txs {
 section #baby {
     font-family: 'Creepster', sans-serif;
     font-size: 12cqmin;
-    position: fixed;
+    position: absolute;
     top: 12.75%;
     left: 48%;
     transform: rotate(-2deg);
@@ -60,7 +60,7 @@ section #baby {
 section #web {
     font-family: 'Creepster', sans-serif;
     font-size: 12cqmin;
-    position: fixed;
+    position: absolute;
     top: 12.8%;
     left: 73%;
     transform: rotate(2deg);
@@ -68,7 +68,7 @@ section #web {
 section #dev {
     font-family: 'Creepster', sans-serif;
     font-size: 13cqmin;
-    position: fixed;
+    position: absolute;
     top: 23.3%;
     left: 71%;
     transform: rotate(5deg);
